@@ -67,7 +67,7 @@ function App() {
           <img className='w-10 h-10 rounded-full' src="/logo.jpeg" alt="" />
           <h1 className=' text-4xl '>Pokeverse</h1>
         </div>
-        <a href={"https://github.com/"}>
+        <a href={"https://github.com/Ayush8239/Pokeverse"}>
           <img className='w-10 h-10' src="/github.svg" alt="" />
 
         </a>
